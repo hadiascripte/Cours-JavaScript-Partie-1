@@ -69,7 +69,7 @@ let arbre;
 // console.log(4 % 5);
 // console.log(4 ** 5);
 
-//  *********** Les opérateurs d'affectations ***********
+//  *********** Les opérateurs d'affectations ( incrémentation) ***********
 
 let total = 0;
 total = total + 1;
